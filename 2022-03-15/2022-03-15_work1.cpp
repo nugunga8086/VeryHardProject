@@ -23,7 +23,7 @@ int main() {
 	int n;
 	cout << "입력 ";
 	cin >> n;
-	cout << "자연상수(1/" << 1 / (float)(n * 10000) << ")" << endl;
+	cout << "자연상수: " << 1 / (float)(n * 10000) << endl;
 	
 	return 0;
 }
