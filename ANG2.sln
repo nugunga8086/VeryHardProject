@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ANG2", "ANG2\ANG2.vcxproj", "{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Debug|x64.ActiveCfg = Debug|x64
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Debug|x64.Build.0 = Debug|x64
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Debug|x86.ActiveCfg = Debug|Win32
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Debug|x86.Build.0 = Debug|Win32
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Release|x64.ActiveCfg = Release|x64
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Release|x64.Build.0 = Release|x64
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Release|x86.ActiveCfg = Release|Win32
+		{17B59C3F-7BA0-4443-8FFD-864C3A4AD785}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {233A1FBE-F432-4032-ACC6-D561FA77CCBB}
+	EndGlobalSection
+EndGlobal
